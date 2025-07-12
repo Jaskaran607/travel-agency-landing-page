@@ -1,7 +1,5 @@
-# travel-agency-landing-page
-# Travel Agency Landing Page
 
-![Travel Agency Preview](https://i.imgur.com/JK5xH8U.png)
+# Travel Agency Landing Page
 
 A responsive travel agency landing page featuring destination cards, pricing tables, and call-to-action sections. Built with HTML, CSS, and a touch of JavaScript.
 
